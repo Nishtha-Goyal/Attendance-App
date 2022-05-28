@@ -1,0 +1,49 @@
+.home-head {
+  background-image:url('../../background-home.jpg');
+    background-size: cover;
+  color: white;
+  text-align: center;
+  margin-top: -30px;
+  min-height: 100vh;
+  height: auto;
+  padding: 40px;
+}
+.home-head-text{
+    font-size: 70px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.home-time-text{
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 70px;
+}
+.home-button {
+  background-color: #4076cc;
+  border: none;
+  
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 10px 10px;
+  border-radius: 50%;
+   width: 200px;
+   height: 200px;
+  cursor: pointer;
+}
+.home-button:hover{
+    background-color: #4076cc;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+    margin: 10px 10px;
+    border-radius: 50%;
+    transition: 800ms;
+    width: 210px;
+    height: 210px;
+    cursor: pointer;
+}
+.text-button{
+    margin-top: 50px;
+}

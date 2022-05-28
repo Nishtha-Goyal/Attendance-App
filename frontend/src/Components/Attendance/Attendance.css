@@ -1,0 +1,17 @@
+
+.click-pic{
+    cursor: pointer;
+    font-size: 28px;
+    margin-left: auto;
+    background-color: green;
+    color: white;
+    height: 70px;
+    width:280px
+    
+}
+.click-pic:hover{
+    background-color: rgb(40, 65, 40);
+    color: white;
+    height: 70px;
+    width:280px
+}
